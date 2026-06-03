@@ -12,7 +12,7 @@ In 2023, I completed my master in Fundamental mathematics program at University 
 
 In 2018, I graduated in the honor bachelor program of Mathematics and Computer Science at [Ho Chi Minh University of Science, Vietnam National University](https://hcmus.edu.vn/).
 
-In the next step, I would like to collaborate with other professional researchers to delve deeper into my research interests and discover new things that can be usefully applied to mathematics and physics. If you have a postdoctoral position, please contact me. My resume is here .
+With a background in applied mathematics, numerical simulation, scientific computing, and high-performance computing (HPC), I am particularly enthusiastic about contributing to projects involving mechanical engineering, computational physics, numerical simulation, and high-performance computing (HPC).
 
 Professional profile
 =====================
