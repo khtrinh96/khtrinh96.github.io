@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/@hantrinhkim7630"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -89,7 +89,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
