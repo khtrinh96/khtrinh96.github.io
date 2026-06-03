@@ -1,6 +1,6 @@
 ---
 title: "Convergence analysis of a Crank-Nicolson scheme for strongly magnetized plasma"
-collection: publications
+collection: preprints
 category: preprints
 permalink: /publication/paper2
 date: 2025-12-01
