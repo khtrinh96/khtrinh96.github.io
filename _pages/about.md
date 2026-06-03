@@ -22,3 +22,17 @@ Research Interests
 - Numerical methods (FEM, FDM, FVM, PIC),
 - Plasma physics, CFD, turbulence flows, fluid-structure interaction.
 
+Professional profile
+=====================
+
+- Scientific computing, HPC with strong mathematics and scientific computing background in high-performance computing, numerical simulation, plasma physics, and scientific software development.
+- Expertise in large-scale simulations, parallel computing, and mathematical modeling, with both academic and industrial research experience.
+- Experienced in C++, MPI, OpenMP, numerical methods for PDEs, particle methods, and machine learning approaches for physics-based systems.
+
+Technical skills
+======================
+
+- Programming: C++, Python, Fortran, MATLAB, R,
+- Parallel Computing: MPI, OpenMP, CUDA, MUMPS (sparse direct solver),
+- Scientific Computing: FEM, FDM, FVM, spectral methods, PIC methods,
+- Tools: Abaqus, LaTeX, Linux/macOS, HPC environments.
