@@ -17,7 +17,7 @@ With a background in applied mathematics, numerical simulation, scientific compu
 Professional profile
 =====================
 
-- Scientific computing, HPC with strong mathematics and scientific computing background in high-performance computing, numerical simulation, plasma physics, and scientific software development.
+- Scientific computing, HPC with strong mathematics and scientific computing backgrounds in high-performance computing, numerical simulation, plasma physics, and scientific software development.
 - Expertise in large-scale simulations, parallel computing, and mathematical modeling, with both academic and industrial research experience.
 - Experienced in C++, MPI, OpenMP, numerical methods for PDEs, particle methods, and machine learning approaches for physics-based systems.
 
