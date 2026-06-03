@@ -14,6 +14,14 @@ In 2018, I graduated in the honor bachelor program of Mathematics and Computer S
 
 In the next step, I would like to collaborate with other professional researchers to delve deeper into my research interests and discover new things that can be usefully applied to mathematics and physics. If you have a postdoctoral position, please contact me. My resume is here .
 
+Professional profile
+=====================
+
+- Scientific computing, HPC with strong mathematics and scientific computing background in high-performance computing, numerical simulation, plasma physics, and scientific software development.
+- Expertise in large-scale simulations, parallel computing, and mathematical modeling, with both academic and industrial research experience.
+- Experienced in C++, MPI, OpenMP, numerical methods for PDEs, particle methods, and machine learning approaches for physics-based systems.
+
+
 Research Interests
 ==================
 
@@ -21,13 +29,6 @@ Research Interests
 - Machine learning, AI for mathematical problems,
 - Numerical methods (FEM, FDM, FVM, PIC),
 - Plasma physics, CFD, turbulence flows, fluid-structure interaction.
-
-Professional profile
-=====================
-
-- Scientific computing, HPC with strong mathematics and scientific computing background in high-performance computing, numerical simulation, plasma physics, and scientific software development.
-- Expertise in large-scale simulations, parallel computing, and mathematical modeling, with both academic and industrial research experience.
-- Experienced in C++, MPI, OpenMP, numerical methods for PDEs, particle methods, and machine learning approaches for physics-based systems.
 
 Technical skills
 ======================
