@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/paper1
 date: 2026-12-01
 venue: 'Published in Journal of Computational physics'
-paperurl: 'https://khtrinh96/khtrinh96.github.io/files/paper1.pdf'
+paperurl: 'https://khtrinh96.github.io/files/paper1.pdf'
 ---
 
 
