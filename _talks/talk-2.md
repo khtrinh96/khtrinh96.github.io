@@ -1,5 +1,5 @@
 ---
-title: "Numkin 2025"
+title: "(Talk) Numkin 2025"
 collection: talks
 type: "Talk"
 permalink: https://www.ipp.mpg.de/5518761/numkin2025
