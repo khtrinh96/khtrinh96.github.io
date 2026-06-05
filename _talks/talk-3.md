@@ -1,5 +1,5 @@
 ---
-title: "CANUM 2026"
+title: "(Talk) CANUM 2026"
 collection: talks
 type: talk
 permalink: https://canum2026.math.cnrs.fr/fr/
