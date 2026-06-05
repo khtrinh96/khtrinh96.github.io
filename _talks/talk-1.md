@@ -1,5 +1,5 @@
 ---
-title: "Modeling, theory and numerics for PDEs (kinetic and hyperbolic systems)"
+title: "(Talk) Modeling, theory and numerics for PDEs (kinetic and hyperbolic systems)"
 collection: talks
 type: "Talk"
 permalink: https://indico.math.cnrs.fr/event/12641/
