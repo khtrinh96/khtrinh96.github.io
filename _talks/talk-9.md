@@ -1,5 +1,5 @@
 ---
-title: "(Attended) Hausdorff summer school: Particles in flow"
+title: "(Attended) Interacting particles, PDEs and applications"
 collection: talks
 type: "Talk"
 permalink: https://indico.math.cnrs.fr/event/14446/
