@@ -3,5 +3,5 @@ title: "(Attended) Theoretical and Analytical Aspects of Kinetic equations in Pl
 collection: talks
 permalink: https://conferences.cirm-math.fr/3075.html
 date: 25 - 29 Mar, 2024
-location: "Marseille, France"
+venue: "Marseille, France"
 ---
