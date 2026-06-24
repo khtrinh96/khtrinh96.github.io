@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education :
 ======
 
 * 2023 - Present : PhD Candidate at IRMAR, University of Rennes, France.
