@@ -1,12 +1,9 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Experiences"
+title: "Industrial and Academic experiences"
 author_profile: true
 ---
-
-Industrial and Academic experiences
-======
 
 PhD in Applied Mathematics and Scientific Computing 
 ======
@@ -57,13 +54,3 @@ Bosch Corporation, Mar 2018 - Sep 2018, Vietnam
 * Worked on residual stress measurement techniques.
 * Applied numerical analysis and image processing methods.
 * Used Abaqus and MATLAB for simulation and analysis.
-  
-Skills
-======
-
-* Programming: C++, Python, Fortran, MATLAB, R,
-* Parallel Computing: MPI, OpenMP, CUDA, MUMPS (sparse direct solver),
-* Scientific Computing: FEM, FDM, FVM, spectral methods, PIC methods,
-* Tools: Abaqus, LaTeX, Linux/macOS, HPC environments,
-* Research Areas: HPC, plasma physics, kinetic equations, numerical PDEs, CFD, turbulence modeling, data science, AI and ML.
-
