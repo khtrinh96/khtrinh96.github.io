@@ -31,10 +31,3 @@ Certificates :
 * The complete parallelism course: from zero to expert, (MPI, OpenMP, multithreading, and parallelism fundamentals)
 * Mastering GPU parallel programming with CUDA, (Ndivia GPUs hardware, CUDA programming)
 * Atomic, Nuclear & Particle Physics: From Beginner to Expert.
-* 
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
