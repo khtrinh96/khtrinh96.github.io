@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Industrial and Academic experiences"
+title: ""
 author_profile: true
 ---
 
